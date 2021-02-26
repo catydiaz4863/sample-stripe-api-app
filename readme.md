@@ -11,10 +11,6 @@ Begin node
 Create Project 
 `npm i express ejs body-parser nodemon stripe`
 
-### In the code
-
-Modify line 7 
-`"start" : "nodemon index.js"`
 
 ### Stripe
 
@@ -27,6 +23,14 @@ https://dashboard.stripe.com/test/dashboard
 
 get secret key
 get publishible key
+
+### In the code
+
+Modify line 7 
+`"start" : "nodemon index.js"`
+
+Add API keys
+
 
 
 
