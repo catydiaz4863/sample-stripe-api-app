@@ -1,4 +1,5 @@
-How to
+**Instructions**
+-----
 
 
 **In the terminal**
