@@ -1,8 +1,8 @@
-**Instructions**
+#Instructions
 -----
 
 
-**In the terminal**
+###In the terminal
 
 Begin node
 `npm init -y`
@@ -11,12 +11,12 @@ Begin node
 Create Project 
 `npm i express ejs body-parser nodemon stripe`
 
-**In the code**
+###In the code
 
 Modify line 7 
 `"start" : "nodemon index.js"`
 
-**Stripe**
+###Stripe
 
 You need a stripe account 
 https://stripe.com/
